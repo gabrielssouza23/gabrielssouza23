@@ -73,6 +73,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gabrielssouza23/gabrielssouza23/output/snake.svg" alt="Snake animation" />
-
-###
