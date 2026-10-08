@@ -13,7 +13,7 @@ Full-stack developer from Brazil 🇧🇷 (UTC-3). I build web apps with **React
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**DeskPilot**](https://github.com/gabrielssouza23/claude-test) | AI-assisted helpdesk. Claude triages tickets and drafts replies, with a rule-based fallback. Agent dashboard, tests and CI. | Next.js, TypeScript, FastAPI, PostgreSQL, Claude API, Docker |
+| [**DeskPilot**](https://github.com/gabrielssouza23/deskpilot) | AI-assisted helpdesk. Claude triages tickets and drafts replies, with a rule-based fallback. Agent dashboard, tests and CI. | Next.js, TypeScript, FastAPI, PostgreSQL, Claude API, Docker |
 | [**Carbonífera Biodiversa**](https://carbonifera-biodiversa.vercel.app/) | Maps species in former coal-mining areas, with community submissions reviewed by experts. Award-winning research project. | React, Tailwind, Google Maps API |
 | [**carboAPI**](https://github.com/gabrielssouza23/carboAPI) | REST API for Carbonífera Biodiversa, with JWT auth and image uploads | Node.js, Fastify, PostgreSQL |
 | [**maxbot-ui**](https://github.com/gabrielssouza23/maxbot-ui) | Product interface with accessible components, search, filters and pagination | Next.js, React 19, Radix, Tailwind |
